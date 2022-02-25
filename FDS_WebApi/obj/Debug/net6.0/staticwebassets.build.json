@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "NVpp29I3xNxkJj0Uy7PvUemQmQgPm5sMTn8klr8Gf0c=",
+  "Source": "FDS_WebApi",
+  "BasePath": "_content/FDS_WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ca2efd7e-79a5-432a-8792-9d47133a04ab": {
+      "ProjectGuid": "ca2efd7e-79a5-432a-8792-9d47133a04ab",
+      "DisplayName": "FDS.DataAccess",
+      "ColorIndex": 0
+    },
+    "7aa64ef1-bb15-4e68-9345-2a32ecf0e5d6": {
+      "ProjectGuid": "7aa64ef1-bb15-4e68-9345-2a32ecf0e5d6",
+      "DisplayName": "FDS.Common",
+      "ColorIndex": 1
+    },
+    "08e708ad-ce59-4b23-9ce8-5effbe4c20d3": {
+      "ProjectGuid": "08e708ad-ce59-4b23-9ce8-5effbe4c20d3",
+      "DisplayName": "FDS.BusinessEntities",
+      "ColorIndex": 2
+    },
+    "c657e5f7-ac24-4612-a4bf-31d23301266e": {
+      "ProjectGuid": "c657e5f7-ac24-4612-a4bf-31d23301266e",
+      "DisplayName": "FDS.BusinessLayer1",
+      "ColorIndex": 3
+    },
+    "b7a689c6-5fe5-466d-a193-77d887955654": {
+      "ProjectGuid": "b7a689c6-5fe5-466d-a193-77d887955654",
+      "DisplayName": "FDS_WebApi",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "c040f0e8-746d-4124-a8f2-eea71ef71c6d": {
+      "ProjectGuid": "c040f0e8-746d-4124-a8f2-eea71ef71c6d",
+      "DisplayName": "FDS.BusinessLayer",
+      "ColorIndex": 5
+    },
+    "a27b79a9-21e9-446d-835a-d808fb18fffb": {
+      "ProjectGuid": "a27b79a9-21e9-446d-835a-d808fb18fffb",
+      "DisplayName": "FDS.BusinessLogic",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

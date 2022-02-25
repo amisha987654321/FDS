@@ -1,0 +1,11 @@
+C:\Users\praja\source\repos\FDS_WebApi\FDS.Common\bin\Debug\net6.0\FDS.Common.deps.json
+C:\Users\praja\source\repos\FDS_WebApi\FDS.Common\bin\Debug\net6.0\FDS.Common.dll
+C:\Users\praja\source\repos\FDS_WebApi\FDS.Common\bin\Debug\net6.0\ref\FDS.Common.dll
+C:\Users\praja\source\repos\FDS_WebApi\FDS.Common\bin\Debug\net6.0\FDS.Common.pdb
+C:\Users\praja\source\repos\FDS_WebApi\FDS.Common\obj\Debug\net6.0\FDS.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\praja\source\repos\FDS_WebApi\FDS.Common\obj\Debug\net6.0\FDS.Common.AssemblyInfoInputs.cache
+C:\Users\praja\source\repos\FDS_WebApi\FDS.Common\obj\Debug\net6.0\FDS.Common.AssemblyInfo.cs
+C:\Users\praja\source\repos\FDS_WebApi\FDS.Common\obj\Debug\net6.0\FDS.Common.csproj.CoreCompileInputs.cache
+C:\Users\praja\source\repos\FDS_WebApi\FDS.Common\obj\Debug\net6.0\FDS.Common.dll
+C:\Users\praja\source\repos\FDS_WebApi\FDS.Common\obj\Debug\net6.0\ref\FDS.Common.dll
+C:\Users\praja\source\repos\FDS_WebApi\FDS.Common\obj\Debug\net6.0\FDS.Common.pdb

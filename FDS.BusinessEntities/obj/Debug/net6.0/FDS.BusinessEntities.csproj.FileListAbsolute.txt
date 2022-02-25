@@ -1,0 +1,12 @@
+C:\Users\praja\source\repos\FDS_WebApi\FDS.BusinessEntities\bin\Debug\net6.0\FDS.BusinessEntities.deps.json
+C:\Users\praja\source\repos\FDS_WebApi\FDS.BusinessEntities\bin\Debug\net6.0\FDS.BusinessEntities.dll
+C:\Users\praja\source\repos\FDS_WebApi\FDS.BusinessEntities\bin\Debug\net6.0\ref\FDS.BusinessEntities.dll
+C:\Users\praja\source\repos\FDS_WebApi\FDS.BusinessEntities\bin\Debug\net6.0\FDS.BusinessEntities.pdb
+C:\Users\praja\source\repos\FDS_WebApi\FDS.BusinessEntities\obj\Debug\net6.0\FDS.BusinessEntities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\praja\source\repos\FDS_WebApi\FDS.BusinessEntities\obj\Debug\net6.0\FDS.BusinessEntities.AssemblyInfoInputs.cache
+C:\Users\praja\source\repos\FDS_WebApi\FDS.BusinessEntities\obj\Debug\net6.0\FDS.BusinessEntities.AssemblyInfo.cs
+C:\Users\praja\source\repos\FDS_WebApi\FDS.BusinessEntities\obj\Debug\net6.0\FDS.BusinessEntities.csproj.CoreCompileInputs.cache
+C:\Users\praja\source\repos\FDS_WebApi\FDS.BusinessEntities\obj\Debug\net6.0\FDS.BusinessEntities.dll
+C:\Users\praja\source\repos\FDS_WebApi\FDS.BusinessEntities\obj\Debug\net6.0\ref\FDS.BusinessEntities.dll
+C:\Users\praja\source\repos\FDS_WebApi\FDS.BusinessEntities\obj\Debug\net6.0\FDS.BusinessEntities.pdb
+C:\Users\praja\source\repos\FDS_WebApi\FDS.BusinessEntities\obj\Debug\net6.0\FDS.BusinessEntities.csproj.AssemblyReference.cache

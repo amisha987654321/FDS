@@ -1,0 +1,14 @@
+C:\Users\praja\source\repos\FDS_WebApi\FDS.DataAccess\bin\Debug\net6.0\FDS.DataAccess.deps.json
+C:\Users\praja\source\repos\FDS_WebApi\FDS.DataAccess\bin\Debug\net6.0\FDS.DataAccess.dll
+C:\Users\praja\source\repos\FDS_WebApi\FDS.DataAccess\bin\Debug\net6.0\ref\FDS.DataAccess.dll
+C:\Users\praja\source\repos\FDS_WebApi\FDS.DataAccess\bin\Debug\net6.0\FDS.DataAccess.pdb
+C:\Users\praja\source\repos\FDS_WebApi\FDS.DataAccess\obj\Debug\net6.0\FDS.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\praja\source\repos\FDS_WebApi\FDS.DataAccess\obj\Debug\net6.0\FDS.DataAccess.AssemblyInfoInputs.cache
+C:\Users\praja\source\repos\FDS_WebApi\FDS.DataAccess\obj\Debug\net6.0\FDS.DataAccess.AssemblyInfo.cs
+C:\Users\praja\source\repos\FDS_WebApi\FDS.DataAccess\obj\Debug\net6.0\FDS.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\praja\source\repos\FDS_WebApi\FDS.DataAccess\obj\Debug\net6.0\FDS.DataAccess.dll
+C:\Users\praja\source\repos\FDS_WebApi\FDS.DataAccess\obj\Debug\net6.0\ref\FDS.DataAccess.dll
+C:\Users\praja\source\repos\FDS_WebApi\FDS.DataAccess\obj\Debug\net6.0\FDS.DataAccess.pdb
+C:\Users\praja\source\repos\FDS_WebApi\FDS.DataAccess\bin\Debug\net6.0\FDS.DataAccess.runtimeconfig.json
+C:\Users\praja\source\repos\FDS_WebApi\FDS.DataAccess\obj\Debug\net6.0\FDS.DataAccess.genruntimeconfig.cache
+C:\Users\praja\source\repos\FDS_WebApi\FDS.DataAccess\obj\Debug\net6.0\FDS.DataAccess.csproj.AssemblyReference.cache
